@@ -1,3 +1,4 @@
+// april 5, 2025 comment: this is the code where we learn how to read the datasheet and properly enable the modes
 # include <stdio.h>
 # include <stdlib.h>
 # include <xc.h>
